@@ -1,0 +1,77 @@
+body{
+    font-size: 20px;
+    font-family: "Steppe";
+}
+.welcome {max-width: 1000px;
+margin: 0 auto;}
+
+
+/* -------------------------------- */
+
+.navigation__list li{
+    text-decoration: underline;
+    color: #dd4242;
+    word-spacing: 3px;
+    line-height: 40px;
+}
+
+.navigation__list{padding: 40px;
+border: 2px solid #000;
+max-width: 700px;
+margin: 0 0 40px 0;}
+
+
+
+/* -------------------------------- */
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    text-shadow: 2px 3px 3px rgb(0, 0, 0, 0.6);
+    text-transform: uppercase;
+    padding: 30px ;
+}
+
+.explanation {
+    line-height: 25px;
+    max-width: 700px;
+    text-align: center;
+    margin: 0 auto;
+    letter-spacing: 0.5px;
+}
+
+.block{margin: 0 0 150px 0;
+border: 2px solid #000;
+padding: 40px 0;}
+
+p span{
+    font-weight: 700;
+    font-size: 22px;
+
+}
+
+/* -------------------------------- */
+
+
+.destigm {background-color: rgb(221, 66, 66, 0.3);
+}
+
+
+/* -------------------------------- */
+
+
+.neagative {background-color: rgb(250, 235, 215, 0.3);
+}
+
+
+/* -------------------------------- */
+
+.whattodo {background-color: rgb(127, 255, 212, 0.3);
+}
+
+/* -------------------------------- */
+
+.practice {background-color: rgb(165, 42, 42, 0.3);
+}

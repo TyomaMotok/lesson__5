@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
+
+@font-face {
+    font-family: "Steppe";
+    src: url("../fonts/Steppe-Black.woff2") format("woff2"), url("../fonts/Steppe-Black.woff") format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Steppe";
+    src: url("../fonts/Steppe-Bold.woff2") format("woff2"), url("../fonts/Steppe-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Steppe";
+    src: url("../fonts/Steppe-Regular.woff2") format("woff2"), url("../fonts/Steppe-Regular.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-BookItalic.woff2") format("woff2"), url("../fonts/CircularStd-BookItalic.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: italic;
+}
+
